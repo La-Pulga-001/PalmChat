@@ -1,0 +1,196 @@
+
+
+  .friendsdiv{
+    display: inline-block;
+    margin-right: 15px;
+    box-shadow: 0 0px 5px;
+    width: 200px;
+  }
+
+  .Enoch{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: left;
+    margin-top: 0px;
+  }
+  .name{
+    font-size: 18px;
+    padding-left: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 0px;
+    margin-top: 5px;
+  }
+
+  .mutual-friends{
+    font-size: 16px;
+    padding-left: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    color: rgb(100, 100, 100);
+  }
+
+  .add-button{
+    background-color: rgb(24, 119, 242);
+    color: white;
+    border: none;
+    margin-left: 8px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 20px;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  .Ahorga{width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+  margin-top: 0px;
+}
+
+.Berakieah{width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: right;}
+
+  .ham{width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: right;}
+
+  .moses{width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: left;
+  }
+  
+  .asem{width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: left;
+  }
+   
+  .pk{width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: right;
+  }
+
+  .sam{width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: left;
+  }
+
+  .ella{width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: left;
+    margin-top: 0px;}
+  
+  .god{width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: left;
+    margin-top: 0px;}
+
+ .el{width: 200px;
+   height: 200px;
+   object-fit: cover;
+   object-position: left;
+   margin-top: 0px;}
+
+ .bright{width: 200px;
+  height: 200px;
+ object-fit: cover;
+ object-position: left;
+ margin-top: 0px;}
+
+    .head{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left:0px;
+    text-align: center;
+
+  }
+
+  .PalmChat{
+    color: rgb(6, 61, 40);
+   cursor: pointer;
+   margin-right: 0px;
+  }
+
+  .lapulga{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    font-style: italic;
+  }
+
+  .par{
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgb(8, 110, 39);
+    text-align: left;
+    margin-bottom: 0px;
+    margin-top: 0px;
+  }
+
+  .wel{
+    margin-left: 150px;
+  }
+
+  .la{font-weight: bold;}
+
+  .home{font-style: oblique;
+    color: rgb(255, 255, 255);
+    border: black;
+    background-color: rgb(95, 181, 252);
+    margin-left: 8px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 20px;
+    font-size: 26px;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+
+  .mes{font-style: oblique;
+    color: rgb(255, 255, 255);
+    border: black;
+    background-color: rgb(95, 181, 252);
+    margin-left: 8px;
+    margin-right: 650px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 20px;
+    font-size: 26px;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+
+  .vids{font-style: oblique;
+    color: rgb(255, 255, 255);
+    border: black;
+    background-color: rgb(95, 181, 252);
+    margin-left: 8px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 20px;
+    font-size: 26px;
+    border-radius: 20px;
+    cursor: pointer;}
